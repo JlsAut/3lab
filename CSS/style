@@ -1,0 +1,31 @@
+.header
+{
+    padding-top: 15px;
+}
+.main
+{
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    min-height: calc(100vh - 70px);
+}
+.background
+{
+    background-color: rgb(247, 247, 247);
+}
+.featureImg
+{
+    margin-bottom: 10px;
+    width: 80px; 
+    height: 80px;
+}
+.feature
+{
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+.photo
+{
+    width: 330px; 
+    height: 330px;
+}
